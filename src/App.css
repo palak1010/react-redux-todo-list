@@ -1,0 +1,28 @@
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+.mainHeader{
+  background-color: #8a2be2;
+  padding: 10px 0;
+}
+.headerItem{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.headerItem h1{
+  color: #fff;
+  font-size: 20px;
+}
+main{
+  display: flex;
+  justify-content: center;
+}
+.todoContainer {
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  width: 600px;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 30px 0;
+}
