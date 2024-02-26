@@ -14,13 +14,13 @@ This is a simple Todo List application built using React and Redux. It allows us
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/todo-list-react-redux.git
+   git clone https://github.com/palak1010/react-redux-todo-list.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```
-   cd todo-list-react-redux
+   cd react-redux-todo-list
    ```
 
 3. **Install dependencies:**
